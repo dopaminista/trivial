@@ -1,2 +1,2 @@
 import pandas as pd
-df=pd.DataFrame()
+df=pd.DataFrame({"a":1})
