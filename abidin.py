@@ -1,1 +1,2 @@
-import pandas as pds
+import pandas as pd
+df = pd.DataFrame(columns=['a'], [1])
