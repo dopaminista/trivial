@@ -1,2 +1,3 @@
 import pandas as pd
-df = pd.DataFrame(columns=['a'], [1])
+df = pd.DataFrame({"a":1})
+
